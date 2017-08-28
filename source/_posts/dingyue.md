@@ -11,6 +11,8 @@ copyright: true
 订阅应该是一个非常不错的选择，不管是谷歌的~~gmail邮箱~~,还是outlook，
 163还是qq邮箱都是不错的选择。
 
+<!-- more -->
+
 所以说现在推荐Blogtrottr这样一个服务。
 地址: http://blogtrottr.com
 
