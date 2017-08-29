@@ -6,11 +6,11 @@ copyright: true
 ---
 
 #     <center>订阅问题</center>
-### 关于订阅
-本站的rss订阅应该是一个很古老的技术吧，但rss订阅组织成邮件
+### <center>关于订阅</center>
+<center>本站的rss订阅应该是一个很古老的技术吧，但rss订阅组织成邮件
 订阅应该是一个非常不错的选择，不管是谷歌的~~gmail邮箱~~,还是outlook，
-163还是qq邮箱都是不错的选择。
-
+163还是qq邮箱都是不错的选择。</center>
+<!-- more -->
 所以说现在推荐Blogtrottr这样一个服务。
 地址: http://blogtrottr.com
 
